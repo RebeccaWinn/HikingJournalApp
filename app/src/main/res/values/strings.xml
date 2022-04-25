@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HikingJournal</string>
+    <string name="trail_name">Trail Name</string>
+    <string name="location">Location:</string>
+    <string name="journal_entry">Journal Entry:</string>
+    <string name="hike_visited_label">Visited</string>
+    <string name="hike_location">Saint George, UT</string>
+    <string name="new_hike">New Hike</string>
+    <string name="hike_name">Hike Name</string>
+
+    <string name="difficulty">Hike Difficulty</string>
+    <string name="distance">Distance</string>
+    <string name="difficulty_name">Difficulty</string>
+
+</resources>
